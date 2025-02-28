@@ -1,0 +1,7 @@
+Llamaindex: To connect custom resources with large language model
+
+ctrl + sift + p > interpreter > create > venv
+pip install -r requirements.txt
+pip install llama-index-readers-web
+pip uninstall llama-index
+pip install llama-index
